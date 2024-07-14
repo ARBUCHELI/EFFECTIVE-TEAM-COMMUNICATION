@@ -103,6 +103,7 @@ MARY: I'm sorry. I don't actually know what CMMI is. I didn't understand.
 That's another problem with bluffing.
 
 For the person who does it, it tends to backfire. You can end up looking foolish, irresponsible even, when people find out you pretended to know something you didn't.
+**** GAZPROM PROJECT **** (This happened several times at the beginning of the project, and for that reason it took too long to complete the demo).
 
 And if you bluff too often, people might stop listening to you even when you do know what you're talking about.
 
@@ -115,6 +116,70 @@ And when everyone on the team understands one another and communicates openly, t
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Verbal Barriers: Polarize, Screen, and Crush ideas
+----------------------------------------------------
+Bad communication habits can get in the way of effective communication on a team.
+
+A team's productivity can be damaged by a number of communication barriers.
+
+For example, when a team member uses jargon that not everyone will understand.
+
+Another barrier is bluffing. That's making up responses when asked questions you don't know the answers to.
+
+A third barrier to smooth communication is using language that polarizes a team.
+
+LAUREN: Obviously, we should go with the designs on the left.
+AKIRA: Wait a minute. I'm not sure about that. I don't really like the way it's structured.
+LAUREN: No, the one on the left is way better! Ashley, Mary, you're with me?
+
+* Polarize ideas
+----------------
+When one or more team members can't or won't compromise, it can polarize a team, split it into separate "camps" or "sides." And when a team is divided like that, people work against 
+each other- and communication doesn't flow smoothly.
+
+Consider how the team could have managed things better, without using polarizing language.
+
+LAUREN: I prefer this design because it's simple and straightforward. What does everyone else think?
+
+AKIRA: I think the navigation buttons on the other design are more user friendly.
+
+LAUREN: Well, let's use the best ideas from both designs. Can you draw something up, Mary?
+
+Another communication barrier is screening.
+
+* Screening ideas **** GAZPROM PROJECT **** (This is exactly what's happening in this company, we have a member team that is screaning the ideas of everyone else).
+-----------------
+That's blocking out or ignoring constructive criticism from team members.
+
+Ever experience something similar in your team Ashley?
+
+ASHLEY: Sure have. When I spoke to Akira about missing his deadlines, he didn't acknowledge my comment at all. He just went on talking, like I didn't say anything.
+
+It's likely Akira screened out what Ashley said to avoid having an uncomfortable conversation. But screening like that also blocks out constructive criticism.
+
+It can keep you from learning how to do things better.
+
+And it can discourage people on a team from bothering to give their input next time.
+
+* Crushing ideas **** GAZPROM PROJECT **** (This is exactly what's happening in this company, we have a member team that is crushing the ideas of everyone else).
+----------------
+Crushing ideas, sometimes without a moment's thought, is a final barrier to communication.
+
+Let's revisit the team meeting again while they're discussing ways to breathe new life into one of their game apps.
+
+MARY: Summer vacation is around the corner. Why don't we give the splash screen a bit of a seasonal tone? You know, stay true to the brand, but give it an update.
+
+AKIRA: That will be far too confusing. We need to be consistent.
+
+If you're not open to other peoples' ideas, if you criticize automatically, chances are your team mates will stop sharing their ideas with you at all.
+
+And that can hurt you and your team, and you are going to end up working alone.
+
+When you know what kinds of barriers affect communication on your team, you can take steps to break them down, to communicate in more open, positive ways. And that can transform your 
+team, making everyone happier and more productive.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
