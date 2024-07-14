@@ -36,9 +36,81 @@ Open, effective communication is vital on a team.
 
 However, people aren't born good communicators. They become good at communicating effectively by working at it and honing their skills.
 
-In this course, you'll learn about common verbal barriers on teams and ways to overcome them. But speaking is only one part of communication- effective listening is vital too.
+In this course, you'll learn about common verbal barriers on teams and ways to overcome them. But speaking is only one part of communication - effective listening is vital too.
 
 So you'll also learn about specific active listening techniques that can help you listen more effectively.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Verbal Barriers: Jargon and Bluffing
+--------------------------------------
+Barriers to communication can result in weak team performance. And they can drain team members' energy. **** GAZPROM PROJECT **** (I see that the main developer of the project who is
+Vitaly is doing a big effort for keeping all members of the team informed about the current state of our current goal that is the culmination of the demo). We need to promote these kinds
+of good practices inside of our team.
+
+. One example of a communication barrier - one that's common in workplaces - is jargon. **** GAZPROM PROJECT **** 
+-----------------------------------------------------------------------------------------------------------------
+(The day of the presentation in front of Gazprom, is better to don't try to impress the Gazprom representative, using too much technical language that belongs to the field of software 
+development, is better to focus in their goals, and in how the product can help them to become more efficient and improve their own resource management.
+
+. Example:
+----------
+AKIRA: The client is breathing down my neck. I think we should just go ahead with the black-box testing. You know...get the QA process rolling. We're going with CMMI version 1.3.
+Better start with the CM and CAR process areas. Everyone okay with that?
+
+MARY: I have no idea what Akira's talking about! I don't want everyone to know I'm so out of the loop though. Maybe I can ask a friend after the meeting.
+
+Jargon is language that's used by a specific profession or group.
+
+. Examples? Abbreviations and acronyms like 
+
+QA, 
+CMMI, 
+CM, 
+CAR.
+
+And technical terms, like black-box testing.
+
+The problem with jargon? It's specialized. Not everyone is familiar with it. Using it can keep people from understanding...keep them from getting information they need.
+
+It can also make team members feel isolated. So try to limit your use of jargon. And if you have to use it, explain your terms to make sure everyone is on the same page.
+
+Let's return to the team meeting.
+
+AKIRA: So Mary, are you okay with everything so far?
+MARY: Yes, sure. That's fine. CM and CAR,
+
+Mary just did something quite natural. She pretended to understand something.
+
+She didn't want to appear uninformed in front of her team mates. 
+
+. That's a second kind of verbal barrier to communication. It's called bluffing.
+--------------------------------------------------------------------------------
+It involves making up responses when you're asked questions you don't know the answers to. Bluffing can hold back a team and keep people from really understanding what needs to be done 
+and from moving forward.
+
+AKIRA: So Mary, what we talked about this morning - what progress have you made?
+
+MARY: Actually, I'm not sure what you wanted me to do.
+
+AKIRA: Oh. But our deadline is coming up.
+
+I thought you said you were okay with everything.
+
+MARY: I'm sorry. I don't actually know what CMMI is. I didn't understand.
+
+That's another problem with bluffing.
+
+For the person who does it, it tends to backfire. You can end up looking foolish, irresponsible even, when people find out you pretended to know something you didn't.
+
+And if you bluff too often, people might stop listening to you even when you do know what you're talking about.
+
+So keep jargon in check and banish bluffing.
+
+Avoiding these kinds of barriers can help people on a team communicate better.
+
+And when everyone on the team understands one another and communicates openly, the team will perform at its best.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
